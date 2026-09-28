@@ -6,9 +6,18 @@ Tenho contato prático com manutenção de computadores, sistemas Linux, servido
 
 ## Tecnologias e ferramentas
 
-<div align="left">
-  <img align="center" alt="Linux" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"><img align="center" alt="Git" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"><img align="center" alt="GitHub" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"><img align="center" alt="Docker" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"><img align="center" alt="Ubuntu" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"><img align="center" alt="React" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><img align="center" alt="Vite" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"><img align="center" alt="Vercel" height="36" width="46" src="https://cdn.simpleicons.org/vercel/white"><img align="center" alt="Arduino" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"><img align="center" alt="Raspberry Pi" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
-</div>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" alt="Vite" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/vercel/ffffff" alt="Vercel" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="40" height="40"/>
+</p>
 
 ## Outras áreas
 
@@ -24,22 +33,27 @@ Tenho contato prático com manutenção de computadores, sistemas Linux, servido
 
 ## Projetos
 
-- **[Kaká Cortes Barbearia](https://github.com/paulomatheus-bz/kaka-cortes-barbearia)**  
-  Site desenvolvido para uma barbearia.
+### Kaká Cortes Barbearia
+Site desenvolvido para uma barbearia.
 
-- **[Tira Mossas](https://github.com/paulomatheus-bz/Tira-mossas)**  
-  Projeto web para serviços automotivos.
+[Ver projeto](https://github.com/paulomatheus-bz/kaka-cortes-barbearia)
 
-- **[Leads Finder](https://github.com/paulomatheus-bz/leads-finder)**  
-  Projeto voltado para busca e organização de leads.
+### Tira Mossas
+Projeto web para serviços automotivos.
+
+[Ver projeto](https://github.com/paulomatheus-bz/Tira-mossas)
+
+### Leads Finder
+Projeto voltado para busca e organização de leads.
+
+[Ver projeto](https://github.com/paulomatheus-bz/leads-finder)
 
 ## Estudando
 
-<div align="left">
-  <img align="center" alt="Fedora" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"><img align="center" alt="Bash" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
-</div>
-
-<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg" alt="Fedora" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+</p>
 
 Atualmente aprofundando meus conhecimentos em Fedora, shell, administração de sistemas Linux e infraestrutura.
 
