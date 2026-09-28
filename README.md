@@ -1,8 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:111827,100:0f766e&text=Paulo%20Matheus&fontColor=ffffff&fontSize=34&fontAlignY=34&desc=Linux%20%E2%80%A2%20Infraestrutura%20%E2%80%A2%20Tecnologia&descAlignY=56&descSize=16" />
 
-Gosto de entender como as coisas funcionam por baixo dos panos, principalmente em Linux, redes, hardware e infraestrutura.
-
-Tenho contato prático com manutenção de computadores, sistemas Linux, servidores, desenvolvimento web e ferramentas que uso nos meus projetos.
+Gosto de entender como as coisas funcionam.
 
 ## Tecnologias e ferramentas
 
