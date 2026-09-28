@@ -21,15 +21,17 @@ Gosto de entender como as coisas funcionam por baixo dos panos — principalment
 - **[Tira Mossas](https://github.com/paulomatheus-bz/Tira-mossas)** — projeto web para serviços automotivos.
 - **[Leads Finder](https://github.com/paulomatheus-bz/leads-finder)** — busca e organização de leads.
 
-## GitHub
+## O que tenho estudado
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=paulomatheus-bz&show_icons=true&hide_title=true&hide_border=true&theme=transparent" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomatheus-bz&layout=compact&hide_border=true&theme=transparent" />
-</div>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=paulomatheus-bz&hide_border=true&theme=github-compact" />
+- Linux e administração de sistemas
+- Python e Java
+- Docker e containers
+- Redes e infraestrutura
+- Desenvolvimento web
+- Git e GitHub
 
 ## No momento
 
-Estudando mais sobre Linux, programação, infraestrutura e desenvolvimento de software.
+Aprofundando meus conhecimentos em Linux, programação, infraestrutura e desenvolvimento de software.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:111827,100:0f766e" />
