@@ -6,36 +6,8 @@ Tenho contato prático com manutenção de computadores, sistemas Linux, servido
 
 ## Tecnologias e ferramentas
 
-<div>
-  <img align="center" alt="Linux" height="36" width="46"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-
-  <img align="center" alt="Git" height="36" width="46"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-
-  <img align="center" alt="GitHub" height="36" width="46"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
-
-  <img align="center" alt="Docker" height="36" width="46"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg">
-
-  <img align="center" alt="Ubuntu" height="36" width="46"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg">
-
-  <img align="center" alt="React" height="36" width="46"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-
-  <img align="center" alt="Vite" height="36" width="46"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-
-  <img align="center" alt="Vercel" height="36" width="46"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg">
-
-  <img align="center" alt="Arduino" height="36" width="46"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg">
-
-  <img align="center" alt="Raspberry Pi" height="36" width="46"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
+<div align="left">
+  <img align="center" alt="Linux" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"><img align="center" alt="Git" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"><img align="center" alt="GitHub" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"><img align="center" alt="Docker" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"><img align="center" alt="Ubuntu" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"><img align="center" alt="React" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"><img align="center" alt="Vite" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"><img align="center" alt="Vercel" height="36" width="46" src="https://cdn.simpleicons.org/vercel/white"><img align="center" alt="Arduino" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg"><img align="center" alt="Raspberry Pi" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg">
 </div>
 
 ## Outras áreas
@@ -63,12 +35,8 @@ Tenho contato prático com manutenção de computadores, sistemas Linux, servido
 
 ## Estudando
 
-<div>
-  <img align="center" alt="Fedora" height="34" width="44"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg">
-
-  <img align="center" alt="Bash" height="34" width="44"
-       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
+<div align="left">
+  <img align="center" alt="Fedora" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fedora/fedora-original.svg"><img align="center" alt="Bash" height="34" width="44" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg">
 </div>
 
 <br>
