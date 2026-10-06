@@ -53,19 +53,7 @@ Ferramenta desenvolvida para auxiliar na **busca, análise e organização de po
 
 Site institucional desenvolvido para um advogado, trabalhando desde a interface até **deploy, domínio próprio e configuração DNS**.
 
-**Produção:** advpaulohenriquechaves.com.br
-
----
-
-### 💈 Kaká Cortes Barbearia
-
-Projeto web desenvolvido para apresentação de uma barbearia, com foco em uma experiência simples e responsiva.
-
----
-
-### 🚗 Tira Mossas
-
-Site desenvolvido para apresentação de serviços automotivos e contato com clientes.
+**Site:** `advpaulohenriquechaves.com.br`
 
 ---
 
