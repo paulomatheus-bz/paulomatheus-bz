@@ -11,9 +11,9 @@ paulo@debian
 ------------
 Nome:       Paulo Matheus
 Local:      Maceió, AL
-Interesses: Linux, servidores, web
-Sistema:    Debian / Ubuntu
-Ferramentas: Git, Docker, React, Bash
+Interesses: Linux, servidores, ia
+Sistema:    Debian 
+Ferramentas: Git, Docker, React, Bash, JS
 Projetos:   NextWeb
 ```
 
