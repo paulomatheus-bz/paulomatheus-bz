@@ -53,3 +53,7 @@ Veja os [repositórios públicos](https://github.com/paulomatheus-bz?tab=reposit
 ---
 
 Construindo, aprendendo e entendendo como melhorar.
+
+---
+
+Desenvolvido por **[Paulo Matheus](https://github.com/paulomatheus-bz)**.
