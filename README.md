@@ -1,4 +1,16 @@
-# Oi, eu sou o Paulo Matheus
+<div align="center">
+
+<sub>PAULO MATHEUS · MACEIÓ, AL</sub>
+
+<h1>Paulo Matheus</h1>
+
+<p>Desenvolvimento web, Linux e automação.</p>
+
+<p><a href="#o-que-faço">O que faço</a> &nbsp;·&nbsp; <a href="#projetos">Projetos</a> &nbsp;·&nbsp; <a href="#ferramentas-e-interesses">Ferramentas e interesses</a> &nbsp;·&nbsp; <a href="#como-acompanhar">Como acompanhar</a></p>
+
+</div>
+
+---
 
 Estudo programação e desenvolvo sites e ferramentas web. Gosto de aprender resolvendo problemas reais e de entender o que acontece tanto na interface quanto no servidor.
 
