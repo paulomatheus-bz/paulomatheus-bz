@@ -1,48 +1,43 @@
-<div align="center">
+# Oi, eu sou o Paulo Matheus
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=1000&color=A6A1C8&center=true&vCenter=true&width=480&lines=paulo%40debian%3A~%24+whoami" alt="terminal" />
+Estudo programação e desenvolvo sites e ferramentas web. Gosto de aprender resolvendo problemas reais e de entender o que acontece tanto na interface quanto no servidor.
 
-</div>
+Sou de **Maceió, AL**, uso **Debian** e tenho interesse em desenvolvimento web, Linux, infraestrutura e automação.
 
-<table align="center"><tr><td>
+## O que faço
 
-```text
-paulo@debian
-------------
-Nome:       Paulo Matheus
-Local:      Maceió, AL
-Interesses: Linux, servidores, ia
-Sistema:    Debian 
-Ferramentas: Git, Docker, React, Bash, JS
-Projetos:   NextWeb
-```
+- Sites institucionais e páginas para negócios e profissionais.
+- Interfaces com React, JavaScript e CSS.
+- Ferramentas para organizar rotinas administrativas e prospecção.
+- Experimentos com servidores, Docker e automações.
 
-</td></tr></table>
+Já trabalhei com suporte de TI, manutenção de computadores e serviços em servidor. Também tive experiências no Colégio Fantástico e em atividades técnicas no LED/UFAL.
 
-### oi, eu sou o Paulo.
+## Projetos
 
-gosto de entender como as coisas funcionam, montar projetos e aprender resolvendo problemas reais.
+| Projeto | Proposta |
+| --- | --- |
+| [Colégio Fantástico — experiência](https://colegio-fantastico-experiencia.vercel.app/) | Uma versão mais moderna do site do colégio |
+| [Painel financeiro](https://painel-financeiro-colegio-fantastic.vercel.app/) | Ferramentas para rotinas administrativas |
+| [Leads Finder](https://github.com/paulomatheus-bz/leads-finder) | Proposta de organização da busca por possíveis clientes |
+| [Site de advocacia](https://www.advpaulohenriquechaves.com.br/) | Apresentação institucional e canais de contato |
 
-estudo programação, mexo com linux e servidores e também desenvolvo sites e ferramentas web. já trabalhei com suporte de TI, manutenção de computadores e serviços rodando em servidor.
+Os links acima são os endereços informados nos projetos. O README de cada repositório distingue documentação, demonstração e código disponível.
 
-### o que venho fazendo
+## Ferramentas e interesses
 
-- [colégio fantástico — experiência](https://colegio-fantastico-experiencia.vercel.app/) — uma versão mais moderna do site do colégio.
-- [painel financeiro](https://painel-financeiro-colegio-fantastic.vercel.app/) — ferramentas para facilitar tarefas administrativas.
-- [leads finder](https://github.com/paulomatheus-bz/leads-finder) — projeto para organizar a busca de possíveis clientes.
-- [site de advocacia](https://www.advpaulohenriquechaves.com.br/) — site institucional, domínio e deploy.
-- **nextweb** — meus projetos de sites e soluções digitais.
+**Desenvolvimento:** React, JavaScript, Git e interfaces web.
 
-### um pouco além do código
+**Infraestrutura:** Linux, Bash, Docker, Ubuntu Server, Nextcloud, Tailscale e Uptime Kuma.
 
-gosto de infraestrutura também. já configurei Ubuntu Server, Docker, Nextcloud, Tailscale, Uptime Kuma e automações com bot do Telegram. tive experiências práticas de TI no Colégio Fantástico e em atividades técnicas no LED/UFAL.
+**Aprendizado atual:** desenvolvimento web, automação e organização de projetos para colaboração.
 
-atualmente sigo estudando desenvolvimento web, linux e automação.
+Também reúno trabalhos de sites e soluções digitais sob o nome **NextWeb**.
+
+## Como acompanhar
+
+Veja os [repositórios públicos](https://github.com/paulomatheus-bz?tab=repositories) para conhecer os projetos e sua documentação. Sugestões sobre um projeto podem ser registradas nas issues do respectivo repositório, quando disponíveis.
 
 ---
 
-<div align="center">
-
-<sub>construindo, quebrando e entendendo como consertar.</sub>
-
-</div>
+Construindo, aprendendo e entendendo como melhorar.
